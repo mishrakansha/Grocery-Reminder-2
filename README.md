@@ -1,13 +1,11 @@
 # About Me
-## My name is Sagar Bangade
+## My name is Akansha Mishra
 
-Smartinternz Dashboard Link- https://smartinternz.com/student-profile/feed/U0IyMDIyMDIyMTkzNg==
 
-Google Developer Profile Link- https://g.dev/sagarbangade
+###Project - Grocery Android App
+This Project is a part of Google and AICTE Supported Virtual Internship - Android App Development Using Kotlin.
 
-Project - Grocery Android App
-This Project is a part of Google Supported Virtual Internship - Android App Development Using Kotlin.
+This app is generally help us to create the grocery-list beacuse no one is able to memories all the things. so by this app we can make the list and get reminder.
 
-As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
 
-Demonstration video of App- https://youtu.be/DFju7XqNHxw
+
